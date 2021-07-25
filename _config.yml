@@ -17,8 +17,8 @@ author:
   email: thanhthuybluestar@gmail.com
 
 # URL settings
-url: "https://powex.ml" #
-ImKeoDola: "/Gesko" # leave blank if not wishd
+url: "https://keodola.githup.io" #
+baseurl: "/Gesko" # leave blank if not wishd
 permalink: "https://powex.ml/Gesko/"
 permalink: pretty 
 

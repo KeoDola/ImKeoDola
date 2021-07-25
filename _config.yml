@@ -5,7 +5,7 @@ description: >-
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/KeoDola/ImKeoDola.git # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
@@ -17,7 +17,7 @@ author:
   email: thanhthuybluestar@gmail.com
 
 # URL settings
-url: "https://keodola.githup.io" #
+url: "https://keodola.githup.io//imkeodola" #
 baseurl: "/Gesko" # leave blank if not wishd
 permalink: "https://powex.ml/Gesko/"
 permalink: pretty 

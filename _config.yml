@@ -19,7 +19,7 @@ author:
 # URL settings
 url: "https://keodola.githup.io" #
 baseurl: "/ImKeoDola" # leave blank if not wishd
-permalink: "https://keodola.githup.ip/ImKeoDola/"
+permalink: "https://keodola.githup.io/ImKeoDola/"
 permalink: pretty 
 
 

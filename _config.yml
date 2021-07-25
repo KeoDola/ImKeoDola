@@ -17,7 +17,7 @@ author:
   email: thanhthuybluestar@gmail.com
 
 # URL settings
-url: "https://keodola.githup.io//imkeodola" #
+url: "https://keodola.githup.io" #
 baseurl: "/ImKeoDola" # leave blank if not wishd
 permalink: "https://keodola.githup.ip/ImKeoDola/"
 permalink: pretty 
